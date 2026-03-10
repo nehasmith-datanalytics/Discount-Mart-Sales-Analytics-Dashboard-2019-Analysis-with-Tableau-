@@ -12,13 +12,13 @@ To uncover sales trends, category performance, customer buying behavior, and reg
 ##  Key KPIs:
 
 
-- What was the **total sales revenue** generated in 2019? → $733.2K  
-- How much **profit** did DiscountMart earn? → $219,965  
-- How many **sales transactions** were completed? → 12,476  
-- What was the **average monthly sales figure**? → $61K  
-- Which **product category** contributed the most revenue? → Technology ($272K)  
-- In which **month** did sales peak? → November ($118K)  
-- Which **state/region** recorded the highest sales? → California ($146.4K)
+- What was the **total sales revenue** generated in 2019?  
+- How much **profit** did DiscountMart earn? 
+- How many **sales transactions** were completed?
+- What was the **average monthly sales figure**?
+- Which **product category** contributed the most revenue?
+- In which **month** did sales peak?
+- Which **state/region** recorded the highest sales? 
 
 ## 📈 Dashboard Highlights
 
