@@ -2,6 +2,9 @@
 
 A comprehensive Tableau dashboard analyzing DiscountMart’s 2019 sales performance across time, product categories, purchase quantities, and geographic regions. This project showcases data storytelling through visual insights and KPI tracking.
 
+<img width="1180" height="707" alt="image" src="https://github.com/user-attachments/assets/8b1264b4-cc76-467a-aeae-a71d1a4d8b21" />
+
+
 ##  Objective:
 
 To uncover sales trends, category performance, customer buying behavior, and regional strengths using interactive visualizations and key performance indicators (KPIs). The goal is to support strategic decision-making and identify growth opportunities.
